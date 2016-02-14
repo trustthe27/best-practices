@@ -1,0 +1,23 @@
+{
+  "name": "best-practices",
+  "version": "0.1.0",
+  "description": "Bla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://andreashoffmann@github.com/andreashoffmann/best-practices.git"
+  },
+  "keywords": [
+    "best",
+    "practices"
+  ],
+  "author": "Andreas Hoffmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreashoffmann/best-practices/issues"
+  },
+  "homepage": "https://github.com/andreashoffmann/best-practices#readme"
+}
