@@ -1,7 +1,7 @@
 {
   "name": "best-practices",
   "version": "0.1.0",
-  "description": "Bla",
+  "description": "This repository is about my preferred coding best practices.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,9 @@
     "url": "git+https://andreashoffmann@github.com/andreashoffmann/best-practices.git"
   },
   "keywords": [
-    "best",
-    "practices"
+    "best practices",
+    "git",
+    "github"
   ],
   "author": "Andreas Hoffmann",
   "license": "ISC",
